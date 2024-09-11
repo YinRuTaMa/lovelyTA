@@ -1,0 +1,10 @@
+Package: lovelyTA
+Title: 打印关于师姐的消息
+Version: 0.1.0
+Authors@R: 
+    person("Your", "Name", email = "your.email@example.com", role = c("aut", "cre"))
+Description: 这个包包含一个函数，可以根据用户输入打印关于师姐的不同消息。
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
